@@ -8,12 +8,13 @@
 
 #### Platform&Tools
 
-
 [![](https://img.shields.io/badge/Ubuntu-20.04%20LTS-E95420?style=for-the-badge&logo=Ubuntu)](https://ubuntu.com/)
 [![](https://img.shields.io/badge/IDE-VS%20Code-blue?style=for-the-badge&logo=Visual-Studio-Code)](https://code.visualstudio.com/)
 [![](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=ffffff)](https://isocpp.org/)
 [![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)](https://python.org/)
 [![](https://img.shields.io/badge/-ROS-A8B9CC?style=for-the-badge&logo=ros&logoColor=ffffff)](https://ros.org/)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SimonZhang1999)](https://github.com/anuraghazra/github-readme-stats)
-
+<div class="image-container" align="center">
+  <img height=200 src="https://github-readme-stats-ten-mu-96.vercel.app/api?username=SimonZhang1999&show_icons=true&role=OWNER,COLLABORATOR" />
+  <img height=200 src="https://github-readme-stats-ten-mu-96.vercel.app/api/top-langs?username=SimonZhang1999&layout=compact&langs_count=8&card_width=320&role=OWNER,COLLABORATOR" />
+</div>
