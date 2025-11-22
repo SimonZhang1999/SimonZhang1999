@@ -15,3 +15,5 @@
 [![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)](https://python.org/)
 [![](https://img.shields.io/badge/-ROS-A8B9CC?style=for-the-badge&logo=ros&logoColor=ffffff)](https://ros.org/)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SimonZhang1999)](https://github.com/anuraghazra/github-readme-stats)
+
