@@ -6,7 +6,7 @@
 - 🤖 My current research interests focus on multi-robot formation control, multi-robot motion planning, and multi-robot cooperative manipulation. 
 - 📝 More about me please check my [website](https://simonzhang1999.github.io/). 
 
-#### Platform&Tools
+#### Platform & Tools
 
 [![](https://img.shields.io/badge/Ubuntu-20.04%20LTS-E95420?style=for-the-badge&logo=Ubuntu)](https://ubuntu.com/)
 [![](https://img.shields.io/badge/IDE-VS%20Code-blue?style=for-the-badge&logo=Visual-Studio-Code)](https://code.visualstudio.com/)
